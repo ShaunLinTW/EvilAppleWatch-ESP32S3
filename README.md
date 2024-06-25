@@ -1,8 +1,8 @@
 # EvilAppleWatch-ESP32S3
 Spam BLE advertisements on iPhones with a ESP32S3 based smart watch! (Arduino IDE based project)
 
-<img src="https://github.com/ShaunLinTW/EvilAppleWatch-ESP32S3/img/EvilAppleWatchDemo.JPG" width="300"><br>
-<img src="https://github.com/ShaunLinTW/EvilAppleWatch-ESP32S3/img/EvilAppleWatchDemo-AVP.jpg" width="300"><br>
+<img src="https://github.com/ShaunLinTW/EvilAppleWatch-ESP32S3/blob/main/img/EvilAppleWatchDemo.JPG" width="300"><br>
+<img src="https://github.com/ShaunLinTW/EvilAppleWatch-ESP32S3/blob/main/img/EvilAppleWatchDemo-AVP.jpg" width="300"><br>
 
 Based off of the work of [ronaldstoner](https://github.com/ronaldstoner) in the [AppleJuice repository](https://github.com/ECTO-1A/AppleJuice/blob/e6a61f6a199075f5bb5b1a00768e317571d25bb9/ESP32-Arduino/applejuice.ino) & [Raghu Saxena](https://github.com/ckcr4lyf) in the [EvilAppleJuice ESP32 repository](https://github.com/ckcr4lyf/EvilAppleJuice-ESP32/tree/master).
 
